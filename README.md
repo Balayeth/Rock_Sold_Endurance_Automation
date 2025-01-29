@@ -1,8 +1,8 @@
 
-🚀 Project Overview
+🚀 Project Overview:
 This project is a Web Automation Framework built using Java, Selenium, TestNG, and Gherkin. It is designed for automating web applications, ensuring robust testing, and implementing BDD (Behavior-Driven Development) with Gherkin.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Java - Core programming language
 
@@ -16,7 +16,7 @@ Maven - Build management
 
 Extent Reports - Test reporting
 
-📌 Key Features
+📌 Key Features:
 
 ✅ Page Object Model (POM) for better maintainability
 ✅ BDD with Gherkin for clear test scenarios
@@ -24,7 +24,7 @@ Extent Reports - Test reporting
 ✅ Reusable Utility Methods for common actions
 ✅ Detailed Reports using Extent Reports
 
-🔧 Setup Instructions
+🔧 Setup Instructions:
 
 1️⃣ Clone the Repository
 
@@ -51,7 +51,7 @@ After execution, open target/surefire-reports/index.html for TestNG reports.
 
 For Cucumber reports, check target/cucumber-reports.
 
-📝 Gherkin Feature
+📝 Gherkin Feature:
 
 Feature: Home Page
   Scenario: Verify that Home Page loads perfectly
